@@ -1,0 +1,13 @@
+{
+  "name": "gulp-simple",
+  "version": "1.0.0",
+  "description": "A simple sass-powered starter.",
+  "main": "index.html",
+  "author": "J9",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
