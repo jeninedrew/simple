@@ -1,6 +1,6 @@
-# A simple sass-powered starter.
+# A super simple starter.
 
-## [Gulp](https://gulpjs.com/) 
+## Gulp
 - [Sass](https://www.npmjs.com/package/gulp-sass)
 - [Browsersync](https://browsersync.io/docs/gulp) 
 
