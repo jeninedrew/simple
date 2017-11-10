@@ -9,4 +9,5 @@
 
 ## Get started! 
 - Go to project folder 
-- Enter `gulp` 
+- `npm install`
+- `gulp` 
