@@ -8,6 +8,7 @@
 - [normalize.css](https://necolas.github.io/normalize.css/)
 
 ## Get started! 
-- Go to project folder 
+- `git clone https://github.com/jeninedrew/simple`
+- `npm update`
 - `npm install`
 - `gulp` 
