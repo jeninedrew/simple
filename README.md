@@ -8,7 +8,7 @@
 - [normalize.css](https://necolas.github.io/normalize.css/)
 
 ## Get started! 
-- `git clone https://github.com/jeninedrew/simple`
-- `npm update`
-- `npm install`
-- `gulp` 
+- Pull this repo into your project directory `git clone https://github.com/jeninedrew/simple`
+- You're starting out fresh. Are these the package versions we want to go ahead with? If not, grab the most recent versions.
+- OK, install packages! `npm install`
+- And get the project going. `gulp` 
