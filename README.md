@@ -3,6 +3,7 @@
 ## Gulp
 - [Sass](https://www.npmjs.com/package/gulp-sass)
 - [Browsersync](https://browsersync.io/docs/gulp) 
+- [Babel](https://www.npmjs.com/package/gulp-babel)
 
 ## Normalize
 - [normalize.css](https://necolas.github.io/normalize.css/)

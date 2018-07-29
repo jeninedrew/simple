@@ -4,6 +4,7 @@ var gulp = require('gulp');
 // Include plugins
 var browserSync = require('browser-sync').create();
 var sass        = require('gulp-sass');
+var babel = require('gulp-babel');
 
 // Static Server + watching scss/html files
 gulp.task('serve', ['sass'], function() {
@@ -23,5 +24,13 @@ gulp.task('sass', function() {
         .pipe(gulp.dest("app/css"))
         .pipe(browserSync.stream());
 });
+
+gulp.task('default', () =>
+    gulp.src('src/app.js')
+        .pipe(babel({
+            presets: ['env']
+        }))
+        .pipe(gulp.dest('dist'))
+);
 
 gulp.task('default', ['serve']);
