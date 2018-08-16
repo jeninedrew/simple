@@ -17,7 +17,3 @@
 - You're starting out fresh. Are these the package versions we want to go ahead with? If not, grab the most recent versions (and update starter).
 - OK, install packages! `npm install`
 - And get the project going. `gulp`
-
-## TO DO
-
-- Double check modernizer is working as expected
