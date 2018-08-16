@@ -16,4 +16,4 @@
 - Pull this repo into your project directory `git clone https://github.com/jeninedrew/simple`
 - You're starting out fresh. Are these the package versions we want to go ahead with? If not, grab the most recent versions (and update starter).
 - OK, install packages! `npm install`
-- And get the project going. `gulp`
+- Get the project going --> `gulp`
